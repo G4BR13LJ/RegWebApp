@@ -1,5 +1,8 @@
-🎓 University Student Registration System (MERN Stack)
+<p align="center">🎓 University Student Registration System (MERN Stack) </p>
 <p align="center"> <img src="images/MainView.jpg" alt="Main View" width="700"/> </p>
+
+
+
 Overview
 
 This project is a full-stack student registration platform developed using the MERN stack (MongoDB, Express.js, React, Node.js). It simulates a basic university enrollment system, enabling users to manage student profiles, add new courses, and register students into available classes.
