@@ -1,0 +1,12 @@
+.btn-group {
+    display: flex;
+    justify-content: space-between; /* Add this to evenly space items */
+}
+
+.btn-group > .btn {
+    max-width: 190px; /* Adjust max-width as needed */
+}
+
+.btn-group > .btn:last-child {
+    margin-left: auto; /* Add this to push the last button to the right */
+}

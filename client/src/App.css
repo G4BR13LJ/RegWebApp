@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #1664f7; /* Blue background color */
+  }
+  
+  .App {
+    height: 100%;
+  }
